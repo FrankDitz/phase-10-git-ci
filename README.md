@@ -19,3 +19,5 @@ Run the project with:
 
 ```bash
 uv run main.py
+
+TEMP BAD NOTE A: this older commit should be reverted.
