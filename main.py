@@ -1,5 +1,10 @@
+def get_status_message():
+    return "Phase 10 Git CI project is running"
+
+
 def main():
-    print("Hello from phase-10-git-ci!")
+    message = get_status_message()
+    print(message)
 
 
 if __name__ == "__main__":
