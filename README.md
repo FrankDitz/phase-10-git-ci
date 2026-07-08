@@ -21,3 +21,5 @@ Run the project with:
 uv run main.py
 
 TEMP BAD NOTE A: this older commit should be reverted.
+
+TEMP NOTE B: this newer commit should stay for now.
