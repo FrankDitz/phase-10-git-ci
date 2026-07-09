@@ -1,5 +1,5 @@
 def get_status_message() -> str:
-    return "This message should fail CI temporarily"
+    return "Phase 10 Git CI project is running"
 
 
 def main() -> None:
