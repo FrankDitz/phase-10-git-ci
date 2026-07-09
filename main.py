@@ -1,5 +1,5 @@
 def get_status_message() -> str:
-    return "Phase 10 Git CI project is running"
+    return "Phase 10 GitHub Actions CI project is running"
 
 
 def main() -> None:
